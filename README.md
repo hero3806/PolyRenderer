@@ -5,6 +5,7 @@ PolyRenderer is an easy-to-use Rendering engine that Renders instances in a low-
 
 An example code on how to use PolyRenderer:
 
+NOTE: Put the module in StarterGUI for it to work.
 ```lua
 local PolyRenderer = require("path/to/module")
 local PartOrModel = "your part or model"
