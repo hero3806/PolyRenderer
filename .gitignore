@@ -1,0 +1,11 @@
+# Project place file
+/PolyRenderer.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+.vscode
+aftman.toml
+rokit.toml
+sourcemap.json
